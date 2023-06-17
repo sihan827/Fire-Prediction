@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background-color: rgba(153, 221, 165, 0.829);
+}
+
+.title{
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+#map{
+    display: inline-block;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+#month{
+    width: 200px;
+    height: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+
+#controlbox{
+    display: inline-block;
+    width: 320px;
+    text-align: left;
+}
+
+.explain{
+    margin-left: 350px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+.fire_logo{
+    margin-top: 10px;
+    width: 200px;
+}
+
+.tel{
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
