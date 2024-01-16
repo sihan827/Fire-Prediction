@@ -17,4 +17,5 @@ data/temperature_humidity.csv
 data/wind_speed_rain.csv
 data/fire_2023_01_06.csv
 data/pre_real_2023_fire.csv
+data/fire_2023_full.csv
 *.pkl
